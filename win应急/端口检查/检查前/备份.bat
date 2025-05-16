@@ -1,0 +1,1 @@
+netstat -ano > 1.txt
